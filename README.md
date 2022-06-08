@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vnail10
+- 👋 Hi, I’m @karinabomzon
 - 👀 I’m interested in Network Security
 - 🌱 I’m currently learning Hosting Website
 - 💞️ I’m looking to collaborate on Ethical Hacking
